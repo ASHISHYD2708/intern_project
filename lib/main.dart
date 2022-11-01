@@ -7,7 +7,7 @@ import 'package:intern_project/models/bank_nodels.dart';
 import 'package:intern_project/models/performace.dart';
 
 void main() {
-  runApp(const AppScreen());
+  // runApp(const AppScreen());
 }
 
 class AppScreen extends StatefulWidget {
